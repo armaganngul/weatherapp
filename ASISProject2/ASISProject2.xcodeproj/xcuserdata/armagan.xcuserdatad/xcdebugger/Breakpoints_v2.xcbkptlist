@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "64716BA1-4BE6-46BB-806E-600B7B1C101B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E38CCF43-5A58-478A-8008-07231019C9DB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ASISProject2/Controllers/WeatherViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "afterClickLocation()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2742A002-8416-4864-9C68-D8ECFBB8264A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ASISProject2/Controllers/WeatherViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "afterClickLocation()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2742A002-8416-4864-9C68-D8ECFBB8264A - d6ce626c306607bd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 () -&gt; () in ASISProject2.WeatherViewController.afterClickLocation() -&gt; ()"
+                  moduleName = "ASISProject2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/armagan/Desktop/staj/ASISProject2/ASISProject2/Controllers/WeatherViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "808">
+               </Location>
+               <Location
+                  uuid = "2742A002-8416-4864-9C68-D8ECFBB8264A - 453c6a576226fdb0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (WeatherKit.HourWeather) -&gt; Swift.Optional&lt;ASISProject2.HourlyWeatherCollectionViewCellViewModel&gt; in closure #1 @Swift.MainActor () -&gt; () in closure #1 () -&gt; () in ASISProject2.WeatherViewController.afterClickLocation() -&gt; ()"
+                  moduleName = "ASISProject2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/armagan/Desktop/staj/ASISProject2/ASISProject2/Controllers/WeatherViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DEBD26A8-F1C2-4D17-9CDF-285BC2BE8C20"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ASISProject2/Controllers/WeatherViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "afterClickLocation()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2F33B383-93BB-4B81-94C6-10850FAF6E32"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ASISProject2/Controllers/WeatherViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "afterClickLocation()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2F33B383-93BB-4B81-94C6-10850FAF6E32 - c71fe0b85a80ed0d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in ASISProject2.WeatherViewController.afterClickLocation() -&gt; ()"
+                  moduleName = "ASISProject2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/armagan/Desktop/staj/ASISProject2/ASISProject2/Controllers/WeatherViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "320">
+               </Location>
+               <Location
+                  uuid = "2F33B383-93BB-4B81-94C6-10850FAF6E32 - fe629fdbc8ec1139"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ASISProject2.WeatherViewController.afterClickLocation() -&gt; ()"
+                  moduleName = "ASISProject2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/armagan/Desktop/staj/ASISProject2/ASISProject2/Controllers/WeatherViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "796">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F83911C9-93BD-45C9-B145-9812B8FE04A1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ASISProject2/ViewModels/DailyWeatherCollectionViewCellViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "temperature"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
